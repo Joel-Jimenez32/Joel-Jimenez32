@@ -17,10 +17,19 @@ I love challenges, learning by doing, and breaking things *the right way*. My cu
 
 ## 💻 Skills & Tools
 
-- **Cybersecurity**: Studying Red Team methodology, Kali Linux, ethical hacking basics  
-- **Languages**: HTML, CSS, basic JavaScript  
-- **Tools**: Git, GitHub, Visual Studio Code, Kali Linux  
-- **Soft Skills**: Self-starter, pressure-tested, creative problem solver  
+Cybersecurity:
+- Red Teaming fundamentals (reconnaissance, privilege escalation, lateral movement)
+- Practicing with TryHackMe and Hack The Box labs
+- Familiar with Metasploit, Nmap, Burp Suite
+
+Languages:
+- HTML, CSS (beginner)
+- JavaScript (very basic)
+- Python (learning)
+
+Tools:
+- Kali Linux, Git, GitHub, VS Code
+
 
 ---
 
