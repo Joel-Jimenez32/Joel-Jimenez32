@@ -7,9 +7,9 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Hi! I'm Joel — a high school student and aspiring cybersecurity professional. I've been studying cybersecurity since I was 15, focusing on ethical hacking, red teaming, and learning the tools used by real-world attackers (and defenders 😎).
+Hi! I'm Joel — a high school student and aspiring cybersecurity professional. I've been studying cybersecurity since I was 15, focusing on ethical hacking, red teaming, and learning the tools used by real-world attackers (and defenders).
 
 I love challenges, learning by doing, and breaking things *the right way*. My current focus is on developing foundational skills in ethical hacking and programming, while contributing to open projects and labs to sharpen my craft.
 
