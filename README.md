@@ -35,8 +35,16 @@ Tools:
 
 ## 🛠 Projects
 
-> _(Coming soon!)_  
-I’m currently building hands-on projects to showcase my progress in cybersecurity and web development. Expect to see personal labs, CTF solutions, and portfolio websites here soon.
+### Simple TCP Port Scanner
+A minimal Python TCP port scanner that demonstrates basic network enumeration and socket programming. Built for educational purposes and hands-on learning in cybersecurity.
+
+- **Features:** Resolves hostnames, checks a range of ports for connectivity, prints open ports.
+- **Tech Used:** Python 3, sockets, datetime
+- **Repo:** [GitHub - Simple TCP Port Scanner](https://github.com/Joel-Jimenez32/simple-port-scanner)
+- **Notes:** For learning and lab use only. Do not scan systems without permission.
+
+Other upcoming projects will include CTF write-ups, personal labs, and web security experiments.
+
 
 ---
 
