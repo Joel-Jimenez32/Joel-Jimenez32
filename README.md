@@ -1,9 +1,9 @@
 # Joel Jimenez
 
-📍 Sacramento, CA  
-🎯 Aspiring Red Teamer  
-📧 32joeljimenez@gmail.com  
-👾 GitHub: [Joel-Jimenez32](https://github.com/Joel-Jimenez32)  
+Sacramento, CA  
+Aspiring Red Teamer  
+32joeljimenez@gmail.com  
+GitHub: [Joel-Jimenez32](https://github.com/Joel-Jimenez32)  
 
 ---
 
@@ -15,7 +15,7 @@ I love challenges, learning by doing, and breaking things *the right way*. My cu
 
 ---
 
-## 💻 Skills & Tools
+## Skills & Tools
 
 Cybersecurity:
 - Red Teaming fundamentals (reconnaissance, privilege escalation, lateral movement)
@@ -33,7 +33,7 @@ Tools:
 
 ---
 
-## 🛠 Projects
+## Projects
 
 ### Simple TCP Port Scanner
 A minimal Python TCP port scanner that demonstrates basic network enumeration and socket programming. Built for educational purposes and hands-on learning in cybersecurity.
@@ -48,7 +48,7 @@ Other upcoming projects will include CTF write-ups, personal labs, and web secur
 
 ---
 
-## 🧭 Goals
+## Goals
 
 - Break into Red Teaming  
 - Build a strong GitHub portfolio  
@@ -57,17 +57,16 @@ Other upcoming projects will include CTF write-ups, personal labs, and web secur
 
 ---
 
-## 📚 Currently Learning
-
-- Web app security (OWASP Top 10)  
+## Currently Learning
+ 
 - Basic scripting (Python & Bash)  
 - Linux command line  
-- Git & version control  
+- Networking fundamentals  
 - Bug bounty methodology  
 
 ---
 
-## 🎓 Education
+## Education
 
 **High School Student**  
 Sacramento, California  
@@ -75,7 +74,7 @@ Self-taught cybersecurity learner since age 15
 
 ---
 
-## ☕ Let's Connect
+## Let's Connect
 
 I’m open to mentorship, collaborations, and advice from pros in the field.  
 If you're in cybersecurity or red teaming, feel free to drop me a line!
