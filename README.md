@@ -50,7 +50,7 @@ Other upcoming projects will include CTF write-ups, personal labs, and web secur
 
 ## Goals
 
-- Break into Red Teaming  
+- Break into Red Teaming through IT 
 - Build a strong GitHub portfolio  
 - Earn certs like CompTIA Security+, eJPT, or OSCP (in the future)  
 - Connect with the cybersecurity community  
