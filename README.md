@@ -7,11 +7,11 @@ I'm currently studying for CompTIA A+ and building hands-on experience through h
 - TryHackMe Pre-Security Progress
 - Basic Network Troubleshooting Lab
 
-## 📚 I'm currently learning
+## I'm currently learning
 - CompTIA A+
 - Networking fundamentals
 - Windows troubleshooting
 
-## 🔗 Links
-- Resume: IT Resume.pdf
+## Links
+- Resume: Joel_Jimenez_Resume.pdf
 - LinkedIn: https://www.linkedin.com/in/joeljimenez32/
