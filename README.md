@@ -16,9 +16,14 @@
 
 <h2>Currently Learning</h2>
 <ul>
-  <li>CompTIA A+</li>
+  <li>Linux</li>
   <li>Networking fundamentals</li>
   <li>Windows troubleshooting</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+  <li>CompTIA A+ (In progress)</li>
 </ul>
 
 <h2>Links</h2>
