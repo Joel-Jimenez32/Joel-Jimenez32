@@ -12,6 +12,6 @@ I'm currently studying for CompTIA A+ and building hands-on experience through h
 - Networking fundamentals
 - Windows troubleshooting
 
-## Links
-- Resume: Joel_Jimenez_Resume.pdf
-- LinkedIn: https://www.linkedin.com/in/joeljimenez32/
+## 🔗 Links
+- [Resume](Joel_Jimenez_Resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/joeljimenez32/)
