@@ -4,7 +4,11 @@
 
 <h2>Projects</h2>
 <ul>
-  <li>?????</li>
+  <li>
+    <a href="https://github.com/Joel-Jimenez32/simple-port-scanner" target="_blank">
+      Simple Port Scanner
+    </a> – A basic Python tool to scan open ports on a target and practice networking fundamentals.
+  </li>
 </ul>
 
 <h2>Currently Learning</h2>
