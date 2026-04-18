@@ -13,5 +13,5 @@ I'm currently studying for CompTIA A+ and building hands-on experience through h
 - Windows troubleshooting
 
 ## 🔗 Links
-- Resume: file:///home/joel/Downloads/IT%20Resume.pdf
+- Resume: https://docs.google.com/document/d/1Og7QzRGR-olGvxY0HGu4IBkHErjXuAXGmOwB9M8y1Mg/edit?usp=sharing
 - LinkedIn: https://www.linkedin.com/in/joeljimenez32/
