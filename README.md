@@ -4,9 +4,7 @@
 
 <h2>Projects</h2>
 <ul>
-  <li>Home Lab Setup (VirtualBox, Windows, Linux)</li>
-  <li>TryHackMe Pre-Security Progress</li>
-  <li>Basic Network Troubleshooting Lab</li>
+  <li>?????</li>
 </ul>
 
 <h2>Currently Learning</h2>
