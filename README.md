@@ -1,12 +1,12 @@
-Joel Jimenez
+# Joel Jimenez
 
-Sacramento, CA
-Aspiring IT Support & Cybersecurity Professional
-32joeljimenez@gmail.com
+## Sacramento, CA
+## Aspiring IT Support & Cybersecurity Professional
+## 32joeljimenez@gmail.com
 
 GitHub: Joel-Jimenez32
 
-About Me
+## About Me
 
 Hi, I’m Joel — a high school student building hands-on experience in IT support and cybersecurity. I currently provide freelance and volunteer tech support, helping users troubleshoot everyday computer issues like slow systems, software problems, and device setup.
 
@@ -14,9 +14,9 @@ My focus right now is developing strong help desk and IT fundamentals: Windows a
 
 I enjoy solving practical technical problems and explaining solutions in a way non-technical users can understand.
 
-Skills & Tools
+## Skills & Tools
 
-IT Support & Troubleshooting:
+### IT Support & Troubleshooting:
 
 Windows 10/11 setup, repair, and troubleshooting
 Basic Linux (POP!_OS, Mint, Kali – beginner)
@@ -25,13 +25,13 @@ Software installation and configuration
 Printer and peripheral setup (USB & network)
 Basic hardware diagnostics (RAM, storage, devices)
 
-Networking Fundamentals:
+### Networking Fundamentals:
 
 IP configuration and basic network troubleshooting
 Wi-Fi connectivity issues
 Basic use of ping and network testing tools
 
-Tools & Platforms:
+## Tools & Platforms:
 
 VirtualBox, VMware
 Git, GitHub, VS Code
