@@ -1,19 +1,17 @@
-# Joel Jimenez
+# Hi, I'm Joel! 
 
-Aspiring IT Support Technician focused on troubleshooting, networking, and cybersecurity fundamentals.
+I'm currently studying for CompTIA A+ and building hands-on experience through home labs and real-world support.
 
-Currently studying for CompTIA A+ and building hands-on experience through home labs and real-world support.
-
-## 🔧 Projects
+## Here are some of my projects
 - Home Lab Setup (VirtualBox, Windows, Linux)
 - TryHackMe Pre-Security Progress
 - Basic Network Troubleshooting Lab
 
-## 📚 Currently Learning
+## 📚 I'm currently learning
 - CompTIA A+
 - Networking fundamentals
 - Windows troubleshooting
 
 ## 🔗 Links
-- Resume: [link]
-- LinkedIn: [link]
+- Resume: file:///home/joel/Downloads/IT%20Resume.pdf
+- LinkedIn: https://www.linkedin.com/in/joeljimenez32/
