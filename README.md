@@ -2,14 +2,14 @@
 
 <p>I'm currently studying for CompTIA A+ and building hands-on experience through home labs and real-world support.</p>
 
-<h2>Here are some of my projects</h2>
+<h2>Projects</h2>
 <ul>
   <li>Home Lab Setup (VirtualBox, Windows, Linux)</li>
   <li>TryHackMe Pre-Security Progress</li>
   <li>Basic Network Troubleshooting Lab</li>
 </ul>
 
-<h2>I'm currently learning</h2>
+<h2>Currently Learning</h2>
 <ul>
   <li>CompTIA A+</li>
   <li>Networking fundamentals</li>
