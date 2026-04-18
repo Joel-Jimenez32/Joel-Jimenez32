@@ -1,4 +1,4 @@
-## Hi, I'm Joel
+## Hi, I'm Joel!
 Aspiring IT Support Technician focused on building real-world troubleshooting and cybersecurity skills. I enjoy solving technical problems, helping users understand their devices, and constantly learning through hands-on labs and practice.
 
 Currently preparing for the **CompTIA A+ certification** while gaining experience through freelance tech support, volunteer work, and home lab projects.
