@@ -1,12 +1,3 @@
-# Joel Jimenez
-
-Sacramento, CA  
-Aspiring IT Support / Cybersecurity Technician  
-32joeljimenez@gmail.com  
-GitHub: [Joel-Jimenez32](https://github.com/Joel-Jimenez32)
-
----
-
 ## About Me
 Aspiring IT Support Technician focused on building real-world troubleshooting and cybersecurity skills. I enjoy solving technical problems, helping users understand their devices, and constantly learning through hands-on labs and practice.
 
