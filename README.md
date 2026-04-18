@@ -16,7 +16,7 @@
   <li>Windows troubleshooting</li>
 </ul>
 
-<h2>🔗 Links</h2>
+<h2>Links</h2>
 <ul>
   <li><a href="Joel_Jimenez_Resume.pdf" target="_blank">Resume</a></li>
   <li><a href="https://www.linkedin.com/in/joeljimenez32/" target="_blank">LinkedIn</a></li>
